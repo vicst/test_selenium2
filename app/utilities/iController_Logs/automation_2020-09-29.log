@@ -1,0 +1,3 @@
+09/29/2020 07:23:26 AM - CreateReport - ERROR: Failed to add to db: TypeError('can only concatenate str (not "int") to str')
+09/29/2020 07:24:12 AM - CreateReport - ERROR: Failed to add to db: SyntaxError('INSERT has more target columns than expressions\nLINE 1: ...nder,date,label,status,email_body,label_check,url,client,cli...\n                                                             ^\n')
+09/29/2020 07:26:03 AM - CreateReport - ERROR: Failed to add to db: SyntaxError("INSERT has more expressions than target columns\nLINE 29: ...ller.eu/messages/show?msg=752427', '1243.0', ' ', 'victor.st...\n                                                              ^\n")
